@@ -1,6 +1,6 @@
 from django.test import TestCase
 from django.test import RequestFactory
-from django.urls import reverse
+
 
 from animais.views import index
 
